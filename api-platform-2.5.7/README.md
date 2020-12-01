@@ -6,7 +6,6 @@ To start this application you have to execute command
 
 ```
 docker-compose up -d --build
-
 ```
 in current directory (api-platform-2.5.7). This command will install whole environment for work
 
